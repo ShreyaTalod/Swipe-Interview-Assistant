@@ -261,11 +261,3 @@ export default function InterviewChat() {
     </div>
   );
 }
-
-
-
-
-
-
-
-

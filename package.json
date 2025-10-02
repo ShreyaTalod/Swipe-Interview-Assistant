@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "1.9.x",
+    "antd": "5.x",
+    "dayjs": "1.x",
+    "openai": "^6.0.1",
+    "pdfjs-dist": "3.x",
     "react": "18.x",
     "react-dom": "18.x",
-    "react-scripts": "5.x",
-    "antd": "5.x",
-    "@reduxjs/toolkit": "1.9.x",
     "react-redux": "8.x",
+    "react-scripts": "5.x",
     "redux-persist": "6.x",
-    "pdfjs-dist": "3.x",
-    "uuid": "9.x",
-    "dayjs": "1.x"
+    "uuid": "9.x"
   },
   "scripts": {
     "start": "react-scripts start",

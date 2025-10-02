@@ -127,13 +127,3 @@ export default function ResumeUpload({ onReady }) {
     </Card>
   );
 }
-
-
-
-
-
-
-
-
-
-
