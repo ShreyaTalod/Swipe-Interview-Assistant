@@ -28,4 +28,6 @@ It’s a simple **AI-powered interview assistant** that helps interviewers and c
 - "Vercel" (deployment)
  
 
-#How to Run Locally
+# Demo
+Check out the live application:  https://swipe-interview-assistant-byst.vercel.app
+
